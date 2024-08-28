@@ -47,6 +47,7 @@ header .logo:hover, header .imagem-botao:hover, main .cartao-pokemon:hover{
     font-family: "Milky", Helvetica, sans-serif 500 px;
     font-weight: 200px;
     border-radius: 15px;
+    font-size: 40px;
 }
 
 main{

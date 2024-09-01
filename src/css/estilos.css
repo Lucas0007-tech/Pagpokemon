@@ -121,7 +121,7 @@ main .cartao-pokemon .tipos{
 }
 
 .veneno{
-    background-color: #df67ddfb;
+    background-color: #a041ccfb;
     border-radius: 5px;
 }
 
@@ -157,6 +157,11 @@ main .cartao-pokemon .tipos{
 
 .chao{
     background-color: #7c6c22e3;
+    border-radius: 5px;
+}
+
+.Fada{
+    background-color: #e691e9ef;
     border-radius: 5px;
 }
 

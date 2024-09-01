@@ -34,17 +34,12 @@ header .logo:hover, header .imagem-botao:hover, main .cartao-pokemon:hover{
     cursor: pointer;
 }
 
-@font-face{
-    font-family: "Milky";
-    src: url("./fontes/MilkyNice.otf"), url("./fontes/MilkyNice.ttf");
-}
-
 .titulo{
     background-color: rgb(7, 198, 231);
     width: 50%;
     text-align: center;
     color: white;
-    font-family: "Milky", Helvetica, sans-serif 500 px;
+    font-family: Arial, Helvetica, sans-serif,500 px;
     font-weight: 200px;
     border-radius: 15px;
     font-size: 40px;
@@ -79,7 +74,7 @@ header .cartao-pokemon:hover{
 }
 
 .modo-escuro .cartao-pokemon{
-    background-color: #a8a8a8;
+    background-color: #7a7474;
 }
 
 main .cartao-pokemon .informacoes{
@@ -87,7 +82,7 @@ main .cartao-pokemon .informacoes{
     justify-content: space-between;
     border: 1px solid #333333;
     border-radius: 15px;
-    background-color: #a5a3a3;
+    background-color: #31aac9;
 }
 
 main .cartao-pokemon .informacoes span{
@@ -105,64 +100,74 @@ main .cartao-pokemon .gif{
 }
 
 main .cartao-pokemon .tipos{
-    background-color: rgb(248, 247, 247);
     display: flex;
     gap: 15px;
+    
 }
 
 main .cartao-pokemon .tipos{
     padding: 8px;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .grama{
     background-color: #7ac74c;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .veneno{
     background-color: #a041ccfb;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .fogo{
     background-color: #ee8130;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .água{
     background-color: #6390f0;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .inseto{
     background-color: #a6b91a;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .Voador{
     background-color: #9cecf7;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .normal{
     background-color: #c9c6c6e3;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .Eletrico{
     background-color: #c6f107e3;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .chao{
     background-color: #7c6c22e3;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .Fada{
     background-color: #e691e9ef;
     border-radius: 5px;
+    padding: 5px 10px;
 }
 
 

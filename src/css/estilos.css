@@ -102,13 +102,10 @@ main .cartao-pokemon .gif{
 main .cartao-pokemon .tipos{
     display: flex;
     gap: 15px;
-    
+    padding: 8px;
+    border-radius: 15px;  
 }
 
-main .cartao-pokemon .tipos{
-    padding: 8px;
-    border-radius: 15px;
-}
 
 .tipo{
     border-radius: 5px;

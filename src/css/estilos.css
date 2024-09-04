@@ -110,66 +110,55 @@ main .cartao-pokemon .tipos{
     border-radius: 15px;
 }
 
-.grama{
-    background-color: #7ac74c;
+.tipo{
     border-radius: 5px;
     padding: 5px 10px;
+}
+
+.grama{
+    background-color: #7ac74c;
+    
 }
 
 .veneno{
     background-color: #a041ccfb;
-    border-radius: 5px;
-    padding: 5px 10px;
 }
 
 .fogo{
-    background-color: #ee8130;
-    border-radius: 5px;
-    padding: 5px 10px;
+    background-color: #fd4424;
 }
 
 .água{
     background-color: #6390f0;
-    border-radius: 5px;
-    padding: 5px 10px;
 }
 
 .inseto{
     background-color: #a6b91a;
-    border-radius: 5px;
-    padding: 5px 10px;
 }
 
 .Voador{
     background-color: #9cecf7;
-    border-radius: 5px;
-    padding: 5px 10px;
 }
 
 .normal{
     background-color: #c9c6c6e3;
-    border-radius: 5px;
-    padding: 5px 10px;
 }
 
 .Eletrico{
     background-color: #c6f107e3;
-    border-radius: 5px;
-    padding: 5px 10px;
 }
 
 .chao{
     background-color: #7c6c22e3;
-    border-radius: 5px;
-    padding: 5px 10px;
 }
 
 .Fada{
     background-color: #e691e9ef;
-    border-radius: 5px;
-    padding: 5px 10px;
 }
 
+.Lutador{
+    background-color: #d56723;
+}
 
 main .descricao{
     max-height: 80px;

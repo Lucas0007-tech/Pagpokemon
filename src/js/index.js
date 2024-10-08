@@ -6,6 +6,10 @@ const body = document.querySelector("body")
 const imagemBotaoTrocaDeTema = document.
 querySelector(".imagem-botao")
 
+for (let i = 0; i < pokemons.length; i++) {
+    // Geração dos cards
+}
+
 botaoAlterarTema.addEventListener("click", () =>{
     const modoEscuroEstaAtivo = body.classList.contains("modo-escuro");
 

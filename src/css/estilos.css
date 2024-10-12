@@ -153,6 +153,10 @@ main .cartao-pokemon .tipos{
     background-color: #d56723;
 }
 
+.psiquico{
+    background-color: #fd078eef;
+}
+
 main .descricao{
     max-height: 80px;
     overflow-y: scroll;
